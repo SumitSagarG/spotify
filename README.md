@@ -116,7 +116,8 @@ SUM(likes) OVER (ORDER BY Views) AS Cumulative_likes
 FROM 
 spotify
 ORDER BY 
-Views DESC```
+Views DESC
+```
 
 
 Here’s an updated section for your **Spotify Advanced SQL Project and Query Optimization** README, focusing on the query optimization task you performed. You can include the specific screenshots and graphs as described.
